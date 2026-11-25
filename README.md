@@ -66,7 +66,7 @@
 
 AiESphere is an AI career ecosystem based in India, helping users discover suitable roles, build relevant skills, improve their resumes, and apply for jobs with AI assistance. The platform offers role recommendations, skill pathways, resume building tools, and end‑to‑end application tracking, aiming to empower the future of work through upskilling and personalized guidance.
 
-**Areas:** AI · Career · Education · Platform · India
+**Areas:** Artificial Intelligence · Careers · Education · Platform · India
 
 ## AiESphere on APIs.io
 
@@ -80,12 +80,18 @@ Everything profiled for AiESphere is published on APIs.io rather than in this re
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [aiesphere-com-mcp.yml](https://apis.io/servers/aiesphere-com/aiesphere-com-mcp-yml/)
+
 #### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aiesphere Com Authentication](https://apis.io/security/aiesphere-com/aiesphere-com-authentication/)
-- [Aiesphere Com Domain Security](https://apis.io/security/aiesphere-com/aiesphere-com-domain-security/)
+- [AiESphere Authentication](https://apis.io/security/aiesphere-com/aiesphere-com-authentication/)
+- [AiESphere Domain Security](https://apis.io/security/aiesphere-com/aiesphere-com-domain-security/)
 
 ## Where to find this API
 
@@ -98,7 +104,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aiesphere-com/](https://apis.io/providers/aiesphere-com/).
+**Kin Score 19.5** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 42.6 |
+
+**Agent readiness 21.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 12.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiesphere-com/](https://apis.io/providers/aiesphere-com/).
 
 ## How this profile is made
 
